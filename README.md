@@ -1,5 +1,5 @@
 
-# JumpLander Coder — User Panel Documentation (EN)
+# JumpLander Coder — User Panel Documentation
 
 > This document explains, from a user's point of view, how to use the JumpLander AI coding platform panel (the web dashboard).  
 > It also maps the code pieces (based on the provided `index.php`) to UI behaviors, explains available features (chat, models, agents, tools), and gives practical usage examples, API snippets and developer notes for the repository.
